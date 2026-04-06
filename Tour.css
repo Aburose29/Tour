@@ -1,0 +1,45 @@
+.tour-heading {
+    text-align: center;
+}
+
+.tour-card {
+    text-align: left;
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+    padding: 5px;
+
+}
+
+.tour-main-heading {
+    color: #2e07f0;
+    font-family: "roboto";
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.tour-paragraph {
+    color: #0a0a0a;
+
+}
+
+.tour-bg-container {
+    background-image: url("https://img.freepik.com/free-photo/nice-landscape-with-boat_1048-4711.jpg?w=900&t=st=1707050957~exp=1707051557~hmac=789d3092f5f4327f0436bbb27a290808c9d2e0c7324134360ac1e9ca5478b4a6");
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.tour-button {
+    height: 50px;
+    width: 150px;
+    background-color: green;
+    color: white;
+    border-radius: 30px;
+    border-width: 0px;
+    border-style: underline;
+    border-color: black;
+    text-align: left;
+}
