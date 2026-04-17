@@ -3,7 +3,7 @@
 }
 
 .tour-card {
-    text-align: left;
+    text-align: center;
     border-top-left-radius: 60px;
     border-top-right-radius: 60px;
     border-bottom-left-radius: 70px;
@@ -41,5 +41,5 @@
     border-width: 0px;
     border-style: underline;
     border-color: black;
-    text-align: left;
+    text-align: center;
 }
